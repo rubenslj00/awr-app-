@@ -1,1 +1,3 @@
-# awr-app-
+# maven-project
+
+Simple Maven Project
